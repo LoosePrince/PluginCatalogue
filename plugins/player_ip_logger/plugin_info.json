@@ -13,7 +13,7 @@
     "repository": "https://github.com/LoosePrince/PF-player_ip_logger",
     "branch": "main",
     "related_path": "",
-    "labels": ["api"],
+    "labels": ["api","information"],
     "introduction": {
         "zh_cn": "README.md"
     }
