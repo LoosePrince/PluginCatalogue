@@ -1,0 +1,21 @@
+{
+	"id": "guguwebui",
+	"authors": [
+		{
+			"name": "雪开",
+			"link": "https://github.com/XueK66"
+		},
+		{
+			"name": "树梢",
+			"link": "https://github.com/LoosePrince"
+		}
+	],
+	"repository": "https://github.com/LoosePrince/PF-MCDR-WebUI",
+	"branch": "main",
+	"related_path": "src",
+	"labels": ["information", "management"],
+	"introduction": {
+        "en_us": "README.md",
+        "zh_cn": "README.md"
+    }
+}
